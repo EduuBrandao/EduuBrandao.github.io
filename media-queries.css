@@ -1,0 +1,54 @@
+/*##################################################MEDIA-QUERIES####################################################*/
+
+/*Extra small devices (smart phones, less than 34em)*/
+@media (max-width: 20em) { 
+
+}
+
+
+/*Small devices (phones, tablets less than 48em)*/
+@media (max-width: 47.9em) {
+.container1 .btn-descer{margin-top: 70%;}
+.container2{padding-top: 3% !important;}
+.container2 .foto{text-align: center;}
+.container2 .sobre-texto{text-align: center; margin-top: 3%;}
+.skills{margin-top: 3%;}
+.skill-design img{width: 100%; margin-top: 4%;}
+
+}
+
+
+/*Tablets*/
+@media (min-width: 47em) and (max-width: 60em){
+.container3 .animation-img{transition-delay: 20s;}
+.download{margin-top: 2%;}
+}
+
+/*small laptops */
+@media (min-width: 61.9em) and (max-width: 74.9em) {
+.container3 .animation-img{transition-delay: 20s;}
+.download{margin-top: 2%;}
+
+
+}
+
+
+
+/*Laptops*/
+@media (min-width: 74.9em) and (max-width: 99em){
+
+}
+
+/*Desktop*/
+@media (min-width: 100em){
+
+}
+
+
+
+/*Large Desktop*/
+@media(min-width:120em){
+
+
+}
+
